@@ -1,1 +1,1 @@
-[![iuyunn's Github Stats](https://github-readme-stats.vercel.app/api?username=iuyunn)](https://github.com/anuraghazra/github-readme-stats)
+[![iuyunn's Github Stats](https://github-readme-stats.vercel.app/api?username=iuyunn&show_icons=true&theme=tokyonight)](https://github.com/iuyunn)
